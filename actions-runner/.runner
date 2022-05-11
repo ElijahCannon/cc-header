@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "sync-styles",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/1fmIawkMji73jrPucTnZDT6iV80BOxr9cJqLJdXzajD37G0O6B",
-  "gitHubUrl": "https://github.com/ElijahCannon/cc-header",
-  "workFolder": "_work"
-}
