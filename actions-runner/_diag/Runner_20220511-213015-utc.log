@@ -1,0 +1,129 @@
+[2022-05-11 21:30:15Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Root': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO HostContext] Well known config file 'Credentials': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.credentials'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Root': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO HostContext] Well known config file 'Runner': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.runner'
+[2022-05-11 21:30:15Z INFO Listener] Runner is built for OSX (X64) - osx-x64.
+[2022-05-11 21:30:15Z INFO Listener] RuntimeInformation: Darwin 21.4.0 Darwin Kernel Version 21.4.0: Fri Mar 18 00:45:05 PDT 2022; root:xnu-8020.101.4~15/RELEASE_X86_64.
+[2022-05-11 21:30:15Z INFO Listener] Version: 2.291.1
+[2022-05-11 21:30:15Z INFO Listener] Commit: 496ec0df97891bd8e50f4431d01874ac3ab75a93
+[2022-05-11 21:30:15Z INFO Listener] Culture: en-US
+[2022-05-11 21:30:15Z INFO Listener] UI Culture: en-US
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Root': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO Listener] Validating directory permissions for: '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO CommandLineParser] Parse
+[2022-05-11 21:30:15Z INFO CommandLineParser] Parsing 1 args
+[2022-05-11 21:30:15Z INFO CommandLineParser] parsing argument
+[2022-05-11 21:30:15Z INFO CommandLineParser] HasArgs: False
+[2022-05-11 21:30:15Z INFO CommandLineParser] Adding Command: run
+[2022-05-11 21:30:15Z INFO Listener] Arguments parsed
+[2022-05-11 21:30:15Z INFO Runner] ExecuteCommand
+[2022-05-11 21:30:15Z INFO ConfigurationStore] currentAssemblyLocation: /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin/Runner.Listener.dll
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO ConfigurationStore] binPath: /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Root': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO ConfigurationStore] RootFolder: /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Root': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO HostContext] Well known config file 'Runner': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.runner'
+[2022-05-11 21:30:15Z INFO ConfigurationStore] ConfigFilePath: /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.runner
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Root': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO HostContext] Well known config file 'Credentials': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.credentials'
+[2022-05-11 21:30:15Z INFO ConfigurationStore] CredFilePath: /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.credentials
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Root': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.credentials_migrated'
+[2022-05-11 21:30:15Z INFO ConfigurationStore] MigratedCredFilePath: /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.credentials_migrated
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Root': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO HostContext] Well known config file 'Service': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.service'
+[2022-05-11 21:30:15Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.service
+[2022-05-11 21:30:15Z INFO CommandSettings] Flag 'help': 'False'
+[2022-05-11 21:30:15Z INFO CommandSettings] Flag 'version': 'False'
+[2022-05-11 21:30:15Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-05-11 21:30:15Z INFO CommandSettings] Flag 'check': 'False'
+[2022-05-11 21:30:15Z INFO CommandSettings] Command 'configure': 'False'
+[2022-05-11 21:30:15Z INFO CommandSettings] Command 'remove': 'False'
+[2022-05-11 21:30:15Z INFO CommandSettings] Command 'warmup': 'False'
+[2022-05-11 21:30:15Z INFO ConfigurationManager] LoadSettings
+[2022-05-11 21:30:15Z INFO ConfigurationStore] IsConfigured()
+[2022-05-11 21:30:15Z INFO ConfigurationStore] IsConfigured: True
+[2022-05-11 21:30:15Z INFO ConfigurationManager] Is configured: True
+[2022-05-11 21:30:15Z INFO ConfigurationStore] Read setting file: 290 chars
+[2022-05-11 21:30:15Z INFO ConfigurationManager] Settings Loaded
+[2022-05-11 21:30:15Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-05-11 21:30:15Z INFO ConfigurationStore] IsServiceConfigured: False
+[2022-05-11 21:30:15Z INFO CommandSettings] Command 'run': 'True'
+[2022-05-11 21:30:15Z INFO ConfigurationStore] IsConfigured()
+[2022-05-11 21:30:15Z INFO ConfigurationStore] IsConfigured: True
+[2022-05-11 21:30:15Z INFO ConfigurationManager] Is configured: True
+[2022-05-11 21:30:15Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2022-05-11 21:30:15Z INFO Runner] Set runner startup type - Manual
+[2022-05-11 21:30:15Z INFO CommandSettings] Flag 'once': 'False'
+[2022-05-11 21:30:15Z INFO CommandSettings] Flag 'once': 'False'
+[2022-05-11 21:30:15Z INFO Runner] RunAsync
+[2022-05-11 21:30:15Z INFO ConfigurationManager] LoadSettings
+[2022-05-11 21:30:15Z INFO ConfigurationStore] IsConfigured()
+[2022-05-11 21:30:15Z INFO ConfigurationStore] IsConfigured: True
+[2022-05-11 21:30:15Z INFO ConfigurationManager] Is configured: True
+[2022-05-11 21:30:15Z INFO ConfigurationManager] Settings Loaded
+[2022-05-11 21:30:15Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "sync-styles",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/1fmIawkMji73jrPucTnZDT6iV80BOxr9cJqLJdXzajD37G0O6B",
+  "GitHubUrl": "https://github.com/ElijahCannon/cc-header",
+  "WorkFolder": "_work"
+}
+[2022-05-11 21:30:15Z INFO MessageListener] Loading Credentials
+[2022-05-11 21:30:15Z INFO ConfigurationStore] HasCredentials()
+[2022-05-11 21:30:15Z INFO ConfigurationStore] stored True
+[2022-05-11 21:30:15Z INFO CredentialManager] GetCredentialProvider
+[2022-05-11 21:30:15Z INFO CredentialManager] Creating type OAuth
+[2022-05-11 21:30:15Z INFO CredentialManager] Creating credential type: OAuth
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Bin': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/bin'
+[2022-05-11 21:30:15Z INFO HostContext] Well known directory 'Root': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner'
+[2022-05-11 21:30:15Z INFO HostContext] Well known config file 'RSACredentials': '/Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.credentials_rsaparams'
+[2022-05-11 21:30:15Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.credentials_rsaparams
+[2022-05-11 21:30:15Z INFO MessageListener] Attempt to create session.
+[2022-05-11 21:30:15Z INFO MessageListener] Connecting to the Runner Server...
+[2022-05-11 21:30:15Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-05-11 21:30:15Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-11 21:30:15Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-11 21:30:15Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-11 21:30:15Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-05-11 21:30:15Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-05-11 21:30:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-11 21:30:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-11 21:30:16Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-05-11 21:30:16Z INFO MessageListener] VssConnection created
+[2022-05-11 21:30:16Z INFO Terminal] WRITE LINE: 
+[2022-05-11 21:30:16Z INFO Terminal] WRITE LINE: 
+[2022-05-11 21:30:16Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 231498c8-0354-4d9b-a70a-40da6c1dccf8
+ActivityId: 55f1adf2-4c95-42e7-a8f6-59175bafea0a
+X-TFS-Session: 4beef4d4-bd2e-43fe-8868-7749366d9e86
+X-VSS-E2EID: b0eed278-0b88-4f41-8191-233ba244152d
+X-VSS-SenderDeploymentId: 9d51f527-7c54-71ef-5aa4-7c3dc660eb8a
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: FC90C84C78674082BF13AD2F35D94212 Ref B: DEN301000108045 Ref C: 2022-05-11T21:30:16Z
+Date: Wed, 11 May 2022 21:30:16 GMT
+
+[2022-05-11 21:30:16Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.credentials_rsaparams
+[2022-05-11 21:30:16Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/elijah.cannon/Work/Email/Blocks/head/cc-header/actions-runner/.credentials_rsaparams
+[2022-05-11 21:30:16Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-05-11 21:30:16Z INFO MessageListener] Session created.
+[2022-05-11 21:30:16Z INFO Terminal] WRITE LINE: Current runner version: '2.291.1'
+[2022-05-11 21:30:16Z INFO Terminal] WRITE LINE: 2022-05-11 21:30:16Z: Listening for Jobs
+[2022-05-11 21:30:16Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
