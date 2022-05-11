@@ -1,0 +1,15 @@
+name: "Sync Styles"
+description: "runs a script that injects code into head tag of all emails specified in src/emails"
+author: "Elijah Cannon"
+
+inputs:
+  MC_USERNAME:
+    description: "SAP Marketing Cloud credentials"
+    required: true
+  MC_PASSWORD:
+    description: "SAP Marketing Cloud credentials"
+    required: true
+
+runs:
+  using: "node12"
+  main: "dist/index.js"

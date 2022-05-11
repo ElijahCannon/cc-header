@@ -1,0 +1,24 @@
+{
+  "name": "cc-header",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "ncc build src/action.js -o dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElijahCannon/cc-header.git"
+  },
+  "keywords": [],
+  "author": "Elijah Cannon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElijahCannon/cc-header/issues"
+  },
+  "homepage": "https://github.com/ElijahCannon/cc-header#readme",
+  "dependencies": {
+    "@vercel/ncc": "^0.33.4"
+  }
+}
