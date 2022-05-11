@@ -11,3 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: ./
+        with:
+          MC_USERNAME: ${{secrets.MC_USERNAME}}
+          MC_PASSWORD: ${{secrets.MC_PASSWORD}}
